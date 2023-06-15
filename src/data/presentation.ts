@@ -12,9 +12,9 @@ type Presentation = {
 
 const presentation: Presentation = {
   mail: "galangadhi47@gmail.com",
-  title: "Hey! I'm Galang Ads—a Digital Artist and Visual Designer based in Indonesia. 👋",
+  title: "Hey! I'm Galang Ads—👋",
   description:
-    "Currently a Creative Strategies working within amazing team at design agency RRGraph Design. Day-to-day, I'm taking the product from idea to hi-fidelity and contributing on Product Roadmap, Design System, Branding, etc. ",
+    "Digital Artist and Visual Designer based in Indonesia. Currently a *Creative Strategies* working within amazing team at design agency *RRGraph Design* and 3D Mentor Voxel Designer at *PixelNinja.com*. Day-to-day, I'm taking the product from idea to hi-fidelity and contributing on Product Roadmap, Design System, Branding, etc. ",
   socials: [
     {
       label: "Twiiter",
