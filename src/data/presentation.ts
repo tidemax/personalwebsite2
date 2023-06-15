@@ -12,23 +12,31 @@ type Presentation = {
 
 const presentation: Presentation = {
   mail: "galangadhi47@gmail.com",
-  title: "Hi, I’m Galang 👋",
+  title: "Hey! I'm Galang Ads—a Digital Artist and Visual Designer based in Indonesia. 👋",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Currently a Creative Strategies working within amazing team at design agency RRGraph Design. Day-to-day, I'm taking the product from idea to hi-fidelity and contributing on Product Roadmap, Design System, Branding, etc. ",
   socials: [
     {
       label: "Twiiter",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://twitter.com/galangadhi__",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "LinkedIn",
+      link: "http://www.linkedin.com/in/galangadhisaputra",
     },
     {
-      label: "Github",
-      link: "https://github.com/MaeWolff",
+      label: "Behance",
+      link: "https://www.behance.net/galangadhi",
     },
-  ],
+    {
+      label: "Dribbble",
+      link: "https://dribbble.com/galangadhi",
+    },
+    {
+      label: "Instagram",
+      link: "https://www.instagram.com/galangadhi_",
+    },
+     ],
 };
 
 export default presentation;
