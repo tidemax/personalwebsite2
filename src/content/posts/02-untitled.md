@@ -5,12 +5,13 @@ description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque e
 slug: "untitled"
 isPublish: true
 ---
-#Profile
+# Profile
 
-I'm Galang! **Digital artist** & designer based in Indonesia, who really like 8bit design and games, Initially inspired by pixel games and isometric art in general, Ever since I discovered MagicaVoxel, I have been captivated by voxels. I am self-taught being enthusiastic about pixels and voxels.
-I am currently a **Creative Strategies** working within amazing team at design agency **[RRGraph Design](https://www.rrgraphdesign.com)**. Day-to-day, I'm taking the product from idea to hi-fidelity and contributing on Prduct Roadmap, Design System, Branding, etc.
-When I’m not creating you’ll find me watching the latest Netflix documentary series, taking pictures, making the best Spotify playlists or trying to not fall off a paddle board.
----
+I'm Galang, a professional digital artist and designer based in Indonesia. I specialize in Graphics Design, PowerPoint Designer and 3D Design, creating visually captivating designs that make an impact.
+
+Currently, I work as a Creative Strategies professional at RRGraph Design, where I develop innovative design solutions for clients and product experience. In my role, I take ideas and transform them into high-fidelity products, while also making valuable contributions to product roadmaps, design systems, branding, and more. Additionally, I mentor a 3D design voxel course at PixelNinja, guiding aspiring designers in mastering 3D design techniques.
+
+I also contribute my digital design assets to various microstock markets, Through these contributions, I aim to provide high-quality design resources that help other designers enhance their projects.
 
 **When I'm not designing you can find me:** 
 
@@ -24,4 +25,3 @@ When I’m not creating you’ll find me watching the latest Netflix documentary
 > 
 > Making the best Spotify playlists and exploring lo-fi music for bedtime hahaha! (here a playlist that i made)
 > 
-
